@@ -4,6 +4,10 @@
 ```
 ccm-sam-lambda-dev
 ```
+or  add to sam deploy
+```
+ --resolve-s3
+```
 
 ## reference
 ```
